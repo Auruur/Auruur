@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanni</h1>
 <h3 align="center">A passionate data scientist from Italy</h3>
 
-- 👨🏽‍💻 B.Sc. in **Computer Science & Data Analytics**
+- 👨🏽‍💻 M.Sc. in **International Cybersecurity & Cyberintelligence**
 
 - 🔭 I’m currently working on **Recommender Systems**
 
