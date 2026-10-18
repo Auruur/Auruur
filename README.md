@@ -3,7 +3,7 @@
 
 - 👨🏽‍💻 M.Sc. in **International Cybersecurity & Cyberintelligence**
 
-- 🔭 I’m currently working on **Recommender Systems**
+- 🔭 I’m currently working on **Machine Learning applied to Intrusion Detection Systems**
 
 - 📫 How to reach me: **murzuvanne@gmail.com**
 
